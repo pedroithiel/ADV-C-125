@@ -1,0 +1,25 @@
+canvas {
+    border-radius: 30px;
+    border-color: black;
+}
+body {
+    background-color: orangered;
+    
+}
+
+.bootstrap {
+border-radius: 30px;
+width: 100%;
+}
+.tamanho {
+    border-radius: 30px;
+    font-size:30px ;   
+    box-shadow: 5px 5px 5px;
+}
+h4 {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
